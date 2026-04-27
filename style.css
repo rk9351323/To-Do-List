@@ -505,8 +505,8 @@ body {
   .hero-title { font-size: 2rem; }
   .app-card { padding: 1.25rem; }
   /* .nav-date { display: none; } */
-  .add-btn{ padding: 0.8rem 1rem; }
+  #add-btn { padding: 0.8rem 1rem; }
 }
 @media (max-width: 400px) {
-  .add-btn { padding: 0.5rem 0.5rem; }
+  #add-btn { padding: 0.5rem 0.8rem; }
 }
