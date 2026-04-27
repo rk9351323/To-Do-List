@@ -504,5 +504,9 @@ body {
   .header-inner, .main-wrap, .footer-inner { padding-left: 1.25rem; padding-right: 1.25rem; }
   .hero-title { font-size: 2rem; }
   .app-card { padding: 1.25rem; }
-  .nav-date { display: none; }
+  /* .nav-date { display: none; } */
+  .add-btn{ padding: 0.8rem 1rem; }
+}
+@media (max-width: 400px) {
+  .add-btn { padding: 0.5rem 0.5rem; }
 }
